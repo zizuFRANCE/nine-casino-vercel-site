@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nine-casino-vercel.vercel.app/sitemap.xml
